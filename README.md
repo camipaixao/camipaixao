@@ -1,7 +1,6 @@
 <p>
 😄 Sharing is caring: <a target="_blank" href="https://www.instagram.com/codecami/">@codecami</a><br/>
 🌱 I’m currently learning ReactJS<br/>
-👯 I’m looking to collaborate on frontend projects<br/>
 🤔 I’m looking for help with SharePoint<br/>
 ⚡ Fun fact: I'm Designer too!</p>
 
